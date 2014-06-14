@@ -1,4 +1,4 @@
-mapsofchattanooga.github.io
+Maps of Chattanooga
 ===========================
 
 pieces which end up contributing to a larger picture of the geographic history of Chattanooga.
